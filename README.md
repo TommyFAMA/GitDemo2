@@ -1,2 +1,2 @@
-# GitDemo2
-Just for recalling the usage of github 
+# This is my first Git Repository
+Git is fun
